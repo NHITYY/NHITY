@@ -1,0 +1,14 @@
+{
+  "appId": "com.blackfusion.desktop",
+  "version": "1.9.0",
+  "installer": "BlackFusion-Setup-1.9.0.exe",
+  "sha256": "a02b8a16fe17be0fefac9e8e97bdbde7f7542eeb1c4e47c34b00a01447a6b482",
+  "installerUrl": "https://github.com/NHITYY/NHITY/releases/download/v1.9.0/BlackFusion-Setup-1.9.0.exe",
+  "releaseNotes": [
+    "Interface Aurora com nova fonte Manrope, mais animações e acabamento renovado.",
+    "Temas claro e escuro, alto contraste e opção de reduzir movimentos.",
+    "Fotos de quem está assistindo acima da transmissão, atualizadas ao entrar e sair.",
+    "Verificação automática de novas versões pelo GitHub NHITYY/NHITY ao abrir e a cada 10 minutos.",
+    "Aviso persistente e recuperação da atualização pendente ao reabrir o aplicativo."
+  ]
+}
